@@ -1,0 +1,6 @@
+E:\C#\Buoi1\Bai5\bin\Debug\Bai5.exe.config
+E:\C#\Buoi1\Bai5\bin\Debug\Bai5.exe
+E:\C#\Buoi1\Bai5\bin\Debug\Bai5.pdb
+E:\C#\Buoi1\Bai5\obj\Debug\Bai5.csprojAssemblyReference.cache
+E:\C#\Buoi1\Bai5\obj\Debug\Bai5.exe
+E:\C#\Buoi1\Bai5\obj\Debug\Bai5.pdb
